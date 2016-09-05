@@ -22,5 +22,19 @@
   "bugs": {
     "url": "https://github.com/secretponcho/speech-to-text/issues"
   },
-  "homepage": "https://github.com/secretponcho/speech-to-text#readme"
+  "homepage": "https://github.com/secretponcho/speech-to-text#readme",
+  "devDependencies": {
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0",
+    "debug": "^2.2.0",
+    "gulp": "^3.9.1",
+    "mocha": "^3.0.2",
+    "nodemon": "^1.10.2",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }

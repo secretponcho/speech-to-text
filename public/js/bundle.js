@@ -1,0 +1,1 @@
+console.error("Error: SyntaxError: Unexpected string while parsing json file /home/cabox/workspace/default-node/package.json");
