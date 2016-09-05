@@ -1,2 +1,2 @@
-# speech-to-text
-A simple tool that converts file uploads and microphone input into text.
+# default-node
+Template node.js file structure and package.json for quickstarting new projects
