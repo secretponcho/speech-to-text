@@ -6,7 +6,7 @@
   "scripts": {
     "build": "gulp build",
     "test": "mocha",
-    "start": "debug=::* nodemon server.js"
+    "start": "DEBUG=::* nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,8 @@
     "react": "^15.3.1",
     "react-dom": "^15.3.1",
     "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
   }
 }
