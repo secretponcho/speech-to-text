@@ -1,6 +1,11 @@
 var gulp = require('gulp');
 
-gulp.task('default', function() {
-  console.log('No custom tasks... exiting.');
-  return;
-});
+function stub() {
+  console.log('No task defined!');
+}
+
+gulp.task('scripts', stub());
+
+gulp.task('build', stub());
+
+gulp.task('default', stub());
