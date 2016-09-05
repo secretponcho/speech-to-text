@@ -1,0 +1,26 @@
+{
+  "name": "speech-to-text",
+  "version": "1.0.0",
+  "description": "A small tool that uses IBMs speech to text tool to stream words from files and the microphone",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secretponcho/speech-to-text.git"
+  },
+  "keywords": [
+    "speech",
+    "text",
+    "recognition",
+    "IBM"
+  ],
+  "author": "Anthony Re",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/secretponcho/speech-to-text/issues"
+  },
+  "homepage": "https://github.com/secretponcho/speech-to-text#readme"
+}
